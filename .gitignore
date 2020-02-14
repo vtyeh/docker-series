@@ -1,5 +1,6 @@
 /AccountOwnerServer/obj
 /AccountOwnerServer/bin
+/AccountOwnerServer/Projects
 /Contracts/obj
 /Contracts/bin
 /Entities/obj
@@ -8,3 +9,14 @@
 /LoggerService/bin
 /Repository/obj
 /Repository/bin
+/Tests/bin
+/Tests/obj
+publish
+/.vs
+/AccountOwnerServer/internallog.txt
+/Integration/obj
+/Integration/bin
+/AccountOwnerServer/*.user
+/Tests/*.user
+/Integration/*.user
+.vscode/settings.json
